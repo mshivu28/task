@@ -1,7 +1,7 @@
 provider "aws" {
   region="ap-south-1"
-  access_key = "AKIAJ2JMBPWVXFLRDQQQ"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
    profile="sim"
 }
 //create EBS 
